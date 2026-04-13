@@ -2,6 +2,8 @@
 
 This repo contains all my C++ codes for the ADA lab practicals. I have also added complexity graphs and screenshots of the outputs for better understanding.
 
+### 📄 [Download Lab File (PDF)](ADA_Lab_File_Tejas_Raghav.pdf)
+
 ## Folders
 - `CODES`: All my C++ source files.
 - `GRAPHS`: Some plots for complexity analysis.
